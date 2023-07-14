@@ -13,4 +13,3 @@ const AppNavigator = createStackNavigator({
 });
 
 export default AppNavigator;
-//first commit
