@@ -8,4 +8,3 @@ const AppContainer = createAppContainer(AppNavigator);
 export default function App() {
   return <AppContainer />;
 }
-a
